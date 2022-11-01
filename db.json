@@ -2,24 +2,102 @@
   "tokens": [
     {
       "id": 0,
-      "description": "My NFT",
-      "external_url": "https://twemoji.maxcdn.com",
+      "name": "VNFT 0",
+      "description": "0 Some of us are getting old.",
       "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 0"
+      "external_url": "https://twemoji.maxcdn.com/",
+      "attributes": [
+        {
+          "trait_type": "Brains",
+          "value": 9
+        },
+        {
+          "trait_type": "Cunning",
+          "value": 5
+        },
+        {
+          "trait_type": "Style",
+          "value": 5
+        },
+        {
+          "trait_type": "Clout",
+          "value": 8
+        },
+        {
+          "trait_type": "Title",
+          "value": "Social Worker"
+        },
+        {
+          "trait_type": "Uncommon",
+          "value": "Calculator"
+        }
+      ]
     },
     {
       "id": 1,
-      "description": "My NFT",
-      "external_url": "https://twemoji.maxcdn.com",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 1"
+      "name": "VNFT 1",
+      "description": "1 Some of us are getting old.",
+      "image": "https://twemoji.maxcdn.com/svg/1f004.svg",
+      "external_url": "https://twemoji.maxcdn.com/",
+      "attributes": [
+        {
+          "trait_type": "Brains",
+          "value": 9
+        },
+        {
+          "trait_type": "Cunning",
+          "value": 5
+        },
+        {
+          "trait_type": "Style",
+          "value": 5
+        },
+        {
+          "trait_type": "Clout",
+          "value": 8
+        },
+        {
+          "trait_type": "Title",
+          "value": "Social Worker"
+        },
+        {
+          "trait_type": "Uncommon",
+          "value": "Calculator"
+        }
+      ]
     },
     {
       "id": 2,
-      "description": "My NFT",
-      "external_url": "https://twemoji.maxcdn.com",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 2"
+      "name": "VNFT 2",
+      "description": "2 Some of us are getting old.",
+      "image": "https://twemoji.maxcdn.com/svg/1f0cf.svg",
+      "external_url": "https://twemoji.maxcdn.com/",
+      "attributes": [
+        {
+          "trait_type": "Brains",
+          "value": 9
+        },
+        {
+          "trait_type": "Cunning",
+          "value": 5
+        },
+        {
+          "trait_type": "Style",
+          "value": 5
+        },
+        {
+          "trait_type": "Clout",
+          "value": 8
+        },
+        {
+          "trait_type": "Title",
+          "value": "Social Worker"
+        },
+        {
+          "trait_type": "Uncommon",
+          "value": "Calculator"
+        }
+      ]
     }
   ]
 }
