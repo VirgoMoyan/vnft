@@ -23,12 +23,12 @@
       "name": "VC #2",
       "symbol": "VCNFT",
       "description": "DrinkUP",
-      "image": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test1.png",
+      "image": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test2.png",
       "external_url": "https://www.drinkup.link",
       "properties": {
         "files": [
           {
-            "uri": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test1.png",
+            "uri": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test2.png",
             "type": "image/png"
           }
         ],
@@ -41,12 +41,12 @@
       "name": "VC #3",
       "symbol": "VCNFT",
       "description": "DrinkUP",
-      "image": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test1.png",
+      "image": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test3.png",
       "external_url": "https://www.drinkup.link",
       "properties": {
         "files": [
           {
-            "uri": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test1.png",
+            "uri": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test3.png",
             "type": "image/png"
           }
         ],
