@@ -57,7 +57,7 @@
   ],
   "meta": {
     "name": "VC ERC1155 NFT",
-    "description": "VC ERC1155 NFT Collection",
+    "description": "VC ERC1155 NFT Collection\nTest Line\n\nAnother Line.",
     "image": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test3.png",
     "external_link": "https://www.drinkup.link"
   }
