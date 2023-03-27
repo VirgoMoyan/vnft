@@ -4,7 +4,7 @@
       "id": 1,
       "name": "VC #1",
       "symbol": "VCNFT",
-      "description": "The NFTs of DRINK UP are anthropomorphic beverage avatars, created based on the characteristics of eighteen types of beverages. Different beverage types have distinct forms and  traits.\nEach DRINK UP NFT can be used as a token for exclusive benefits on the DRINK UP Dapp, and can also unlock different physical rewards from different beverage brands in the real world in the future.",
+      "description": "Drink first line.\n\nDrink second line.\nDrink third line.<br />Drink fourth line.",
       "image": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test1.png",
       "external_url": "https://www.drinkup.link",
       "properties": {
