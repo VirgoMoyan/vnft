@@ -22,7 +22,7 @@
       "id": 2,
       "name": "VC #2",
       "symbol": "VCNFT",
-      "description": "DrinkUP",
+      "description": "Drink first line.\n\nDrink second line.\nDrink third line.",
       "image": "https://drinkup-water.s3.us-west-2.amazonaws.com/nft/cola-test2.png",
       "external_url": "https://www.drinkup.link",
       "properties": {
